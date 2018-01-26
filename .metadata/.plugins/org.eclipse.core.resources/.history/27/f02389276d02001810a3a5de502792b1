@@ -1,0 +1,8 @@
+package Ulincsys;
+import static Ulincsys.Pythonics.*;
+
+public class Pint {
+	public Pint(Object... items) {
+		Object idata = str(items[0]);
+	}
+}

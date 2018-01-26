@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Ulincsys.Pint&apos; to &apos;Pnum&apos;&#x0D;&#x0A;- Original project: &apos;Pythonic Java&apos;&#x0D;&#x0A;- Original element: &apos;Ulincsys.Pint&apos;&#x0D;&#x0A;- Renamed element: &apos;Ulincsys.Pnum&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Pint&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Ulincsys{Pint.java[Pint" matchStrategy="1" name="Pnum" qualified="false" references="true" similarDeclarations="false" stamp="1516952847395" textual="false" version="1.0"/>
+</session>
