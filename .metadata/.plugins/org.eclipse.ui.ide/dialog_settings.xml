@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\Ulinc\Documents\pythonicJava"/>
 		<item value="C:\Users\Ulinc\Documents\workspace\Pythonic Java"/>
 	</list>
+	<section name="org.eclipse.ui.internal.ide.dialogs.ProjectContentsLocationArea">
+		<item value="C:\Users\Ulinc\Documents\pythonicJava" key="OUTSIDE_LOCATION"/>
+	</section>
 </section>
