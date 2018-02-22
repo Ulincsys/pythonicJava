@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.util.Scanner;
 import javax.script.*;
 
+@SuppressWarnings("unused")
 public class Pythonics { //contains pythonic methods
 	
 	//######################################################################		INTERACTION
